@@ -31,4 +31,4 @@ RUN pip3 install -r /content/requirements.txt
 
 COPY . /content
 
-CMD ["python", "app.py"]
+CMD ["python", "fullbot.py"]
